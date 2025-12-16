@@ -1,0 +1,12 @@
+{
+  "VITE_OAUTH_REDIRECT_URL": "http://localhost:5173/oauth/callback",
+  "VITE_STATUS_PAGE_DOMAIN": "",
+  "VITE_BACKEND_API_HOST": "http://localhost:8000",
+  "VITE_WEB_HOST": "http://localhost:5173",
+  "VITE_BACKEND_API_BASE_URL": "/api/v1",
+  "VITE_SLACK_CLIENT_ID": "CORRECT_CLIENT_ID_HERE",
+  "VITE_ENV_MODE": "DEV",
+  "VITE_SLACK_REDIRECT_URI": "https://localhost:5173/slack/callback",
+  "VITE_MIXPANEL_TOKEN": "CORRECT_MIXPANEL_TOKEN_HERE",
+  "VITE_MIXPANEL_DEBUG": "false"
+}
